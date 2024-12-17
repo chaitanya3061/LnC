@@ -1,0 +1,14 @@
+C:\Users\nomula.s\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\L&C\AdjacentCountry\AdjacentCountry\bin\Debug\net8.0\AdjacentCountry.exe
+C:\Users\nomula.s\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\L&C\AdjacentCountry\AdjacentCountry\bin\Debug\net8.0\AdjacentCountry.deps.json
+C:\Users\nomula.s\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\L&C\AdjacentCountry\AdjacentCountry\bin\Debug\net8.0\AdjacentCountry.runtimeconfig.json
+C:\Users\nomula.s\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\L&C\AdjacentCountry\AdjacentCountry\bin\Debug\net8.0\AdjacentCountry.dll
+C:\Users\nomula.s\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\L&C\AdjacentCountry\AdjacentCountry\bin\Debug\net8.0\AdjacentCountry.pdb
+C:\Users\nomula.s\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\L&C\AdjacentCountry\AdjacentCountry\obj\Debug\net8.0\AdjacentCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nomula.s\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\L&C\AdjacentCountry\AdjacentCountry\obj\Debug\net8.0\AdjacentCountry.AssemblyInfoInputs.cache
+C:\Users\nomula.s\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\L&C\AdjacentCountry\AdjacentCountry\obj\Debug\net8.0\AdjacentCountry.AssemblyInfo.cs
+C:\Users\nomula.s\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\L&C\AdjacentCountry\AdjacentCountry\obj\Debug\net8.0\AdjacentCountry.csproj.CoreCompileInputs.cache
+C:\Users\nomula.s\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\L&C\AdjacentCountry\AdjacentCountry\obj\Debug\net8.0\AdjacentCountry.dll
+C:\Users\nomula.s\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\L&C\AdjacentCountry\AdjacentCountry\obj\Debug\net8.0\refint\AdjacentCountry.dll
+C:\Users\nomula.s\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\L&C\AdjacentCountry\AdjacentCountry\obj\Debug\net8.0\AdjacentCountry.pdb
+C:\Users\nomula.s\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\L&C\AdjacentCountry\AdjacentCountry\obj\Debug\net8.0\AdjacentCountry.genruntimeconfig.cache
+C:\Users\nomula.s\OneDrive - InTimeTec Visionsoft Pvt. Ltd.,\Desktop\L&C\AdjacentCountry\AdjacentCountry\obj\Debug\net8.0\ref\AdjacentCountry.dll
