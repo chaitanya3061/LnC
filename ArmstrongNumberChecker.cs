@@ -1,37 +1,33 @@
-using System;
-
 class ArmstrongNumberChecker
 {
     static int CalculateArmstrongSum(int number)
     {
-        // Initializing Sum and Number of Digits
         int sum = 0;
-        int numberOfDigits = 0; 
+        int numberOfDigits = 0;
         
-        // Calculating Number of individual digits
-        int temp = number;
-        while (temp > 0)
+        // Calculating the number of digits
+        int remainingNumber = number;
+        while (remainingNumber > 0)
         {
             numberOfDigits++;
-            temp /= 10; 
+            remainingNumber /= 10;
         }
         
-        //Finding Armstrong Number
-        temp = number;
-        while (temp > 0)
+        // Calculating Armstrong sum
+        remainingNumber = number;
+        while (remainingNumber > 0)
         {
-            int lastDigit = temp % 10; 
-            sum += (int)Math.Pow(lastDigit, numberOfDigits); 
-            temp /= 10; 
+            int lastDigit = remainingNumber % 10;
+            sum += (int)Math.Pow(lastDigit, numberOfDigits);
+            remainingNumber /= 10;
         }
 
-        return sum; 
+        return sum;
     }
 
     static void Main()
     {
-
-        Console.Write("Please enter a number to check if it's an Armstrong number:- ");
+        Console.Write("Please enter a number to check if it's an Armstrong number: ");
         int userInput = int.Parse(Console.ReadLine());
 
         if (userInput == CalculateArmstrongSum(userInput))
