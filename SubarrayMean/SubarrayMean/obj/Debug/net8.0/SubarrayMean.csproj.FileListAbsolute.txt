@@ -1,0 +1,15 @@
+C:\LndC\LnC\SubarrayMean\SubarrayMean\bin\Debug\net8.0\SubarrayMean.exe
+C:\LndC\LnC\SubarrayMean\SubarrayMean\bin\Debug\net8.0\SubarrayMean.deps.json
+C:\LndC\LnC\SubarrayMean\SubarrayMean\bin\Debug\net8.0\SubarrayMean.runtimeconfig.json
+C:\LndC\LnC\SubarrayMean\SubarrayMean\bin\Debug\net8.0\SubarrayMean.dll
+C:\LndC\LnC\SubarrayMean\SubarrayMean\bin\Debug\net8.0\SubarrayMean.pdb
+C:\LndC\LnC\SubarrayMean\SubarrayMean\obj\Debug\net8.0\SubarrayMean.GeneratedMSBuildEditorConfig.editorconfig
+C:\LndC\LnC\SubarrayMean\SubarrayMean\obj\Debug\net8.0\SubarrayMean.AssemblyInfoInputs.cache
+C:\LndC\LnC\SubarrayMean\SubarrayMean\obj\Debug\net8.0\SubarrayMean.AssemblyInfo.cs
+C:\LndC\LnC\SubarrayMean\SubarrayMean\obj\Debug\net8.0\SubarrayMean.csproj.CoreCompileInputs.cache
+C:\LndC\LnC\SubarrayMean\SubarrayMean\obj\Debug\net8.0\SubarrayMean.sourcelink.json
+C:\LndC\LnC\SubarrayMean\SubarrayMean\obj\Debug\net8.0\SubarrayMean.dll
+C:\LndC\LnC\SubarrayMean\SubarrayMean\obj\Debug\net8.0\refint\SubarrayMean.dll
+C:\LndC\LnC\SubarrayMean\SubarrayMean\obj\Debug\net8.0\SubarrayMean.pdb
+C:\LndC\LnC\SubarrayMean\SubarrayMean\obj\Debug\net8.0\SubarrayMean.genruntimeconfig.cache
+C:\LndC\LnC\SubarrayMean\SubarrayMean\obj\Debug\net8.0\ref\SubarrayMean.dll

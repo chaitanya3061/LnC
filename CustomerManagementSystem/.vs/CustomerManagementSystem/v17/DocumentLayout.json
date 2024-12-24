@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LndC\\LnC\\CustomerManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC6853A-FDC4-41A5-8F16-60EF9355B4C5}|CustomerManagementSystem\\CustomerManagementSystem.csproj|c:\\lndc\\lnc\\customermanagementsystem\\customermanagementsystem\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC6853A-FDC4-41A5-8F16-60EF9355B4C5}|CustomerManagementSystem\\CustomerManagementSystem.csproj|solutionrelative:customermanagementsystem\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC6853A-FDC4-41A5-8F16-60EF9355B4C5}|CustomerManagementSystem\\CustomerManagementSystem.csproj|c:\\lndc\\lnc\\customermanagementsystem\\customermanagementsystem\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC6853A-FDC4-41A5-8F16-60EF9355B4C5}|CustomerManagementSystem\\CustomerManagementSystem.csproj|solutionrelative:customermanagementsystem\\repositories\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC6853A-FDC4-41A5-8F16-60EF9355B4C5}|CustomerManagementSystem\\CustomerManagementSystem.csproj|c:\\lndc\\lnc\\customermanagementsystem\\customermanagementsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC6853A-FDC4-41A5-8F16-60EF9355B4C5}|CustomerManagementSystem\\CustomerManagementSystem.csproj|solutionrelative:customermanagementsystem\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC6853A-FDC4-41A5-8F16-60EF9355B4C5}|CustomerManagementSystem\\CustomerManagementSystem.csproj|c:\\lndc\\lnc\\customermanagementsystem\\customermanagementsystem\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC6853A-FDC4-41A5-8F16-60EF9355B4C5}|CustomerManagementSystem\\CustomerManagementSystem.csproj|solutionrelative:customermanagementsystem\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC6853A-FDC4-41A5-8F16-60EF9355B4C5}|CustomerManagementSystem\\CustomerManagementSystem.csproj|c:\\lndc\\lnc\\customermanagementsystem\\customermanagementsystem\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC6853A-FDC4-41A5-8F16-60EF9355B4C5}|CustomerManagementSystem\\CustomerManagementSystem.csproj|solutionrelative:customermanagementsystem\\services\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC6853A-FDC4-41A5-8F16-60EF9355B4C5}|CustomerManagementSystem\\CustomerManagementSystem.csproj|c:\\lndc\\lnc\\customermanagementsystem\\customermanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC6853A-FDC4-41A5-8F16-60EF9355B4C5}|CustomerManagementSystem\\CustomerManagementSystem.csproj|solutionrelative:customermanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\CustomerManagementSystem\\CustomerManagementSystem\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerManagementSystem\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\LndC\\LnC\\CustomerManagementSystem\\CustomerManagementSystem\\Services\\CustomerService.cs",
+              "RelativeToolTip": "CustomerManagementSystem\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:06:38.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\CustomerManagementSystem\\CustomerManagementSystem\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerManagementSystem\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\LndC\\LnC\\CustomerManagementSystem\\CustomerManagementSystem\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "CustomerManagementSystem\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:04:05.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\CustomerManagementSystem\\CustomerManagementSystem\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "CustomerManagementSystem\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\LndC\\LnC\\CustomerManagementSystem\\CustomerManagementSystem\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "CustomerManagementSystem\\Repositories\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:03:42.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\CustomerManagementSystem\\CustomerManagementSystem\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerManagementSystem\\Models\\Customer.cs",
+              "ToolTip": "C:\\LndC\\LnC\\CustomerManagementSystem\\CustomerManagementSystem\\Models\\Customer.cs",
+              "RelativeToolTip": "CustomerManagementSystem\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:01:26.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\CustomerManagementSystem\\CustomerManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerManagementSystem\\Program.cs",
+              "ToolTip": "C:\\LndC\\LnC\\CustomerManagementSystem\\CustomerManagementSystem\\Program.cs",
+              "RelativeToolTip": "CustomerManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:00:45.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\CustomerManagementSystem\\CustomerManagementSystem\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "CustomerManagementSystem\\Services\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\LndC\\LnC\\CustomerManagementSystem\\CustomerManagementSystem\\Services\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "CustomerManagementSystem\\Services\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:06:47.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
