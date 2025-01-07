@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LndC\\LnC\\TumblrImageFetcher\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5DF899-9BCB-4EEB-A2BD-35A8383D5965}|TumblrImageFetcher\\TumblrImageFetcher.csproj|c:\\lndc\\lnc\\tumblrimagefetcher\\tumblrimagefetcher\\service\\tumblrimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5DF899-9BCB-4EEB-A2BD-35A8383D5965}|TumblrImageFetcher\\TumblrImageFetcher.csproj|solutionrelative:tumblrimagefetcher\\service\\tumblrimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5DF899-9BCB-4EEB-A2BD-35A8383D5965}|TumblrImageFetcher\\TumblrImageFetcher.csproj|c:\\lndc\\lnc\\tumblrimagefetcher\\tumblrimagefetcher\\utility\\tumblrjsonparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5DF899-9BCB-4EEB-A2BD-35A8383D5965}|TumblrImageFetcher\\TumblrImageFetcher.csproj|solutionrelative:tumblrimagefetcher\\utility\\tumblrjsonparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5DF899-9BCB-4EEB-A2BD-35A8383D5965}|TumblrImageFetcher\\TumblrImageFetcher.csproj|c:\\lndc\\lnc\\tumblrimagefetcher\\tumblrimagefetcher\\client\\tumblrapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5DF899-9BCB-4EEB-A2BD-35A8383D5965}|TumblrImageFetcher\\TumblrImageFetcher.csproj|solutionrelative:tumblrimagefetcher\\client\\tumblrapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B5DF899-9BCB-4EEB-A2BD-35A8383D5965}|TumblrImageFetcher\\TumblrImageFetcher.csproj|c:\\lndc\\lnc\\tumblrimagefetcher\\tumblrimagefetcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B5DF899-9BCB-4EEB-A2BD-35A8383D5965}|TumblrImageFetcher\\TumblrImageFetcher.csproj|solutionrelative:tumblrimagefetcher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TumblrJsonParser.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\TumblrImageFetcher\\TumblrImageFetcher\\Utility\\TumblrJsonParser.cs",
+              "RelativeDocumentMoniker": "TumblrImageFetcher\\Utility\\TumblrJsonParser.cs",
+              "ToolTip": "C:\\LndC\\LnC\\TumblrImageFetcher\\TumblrImageFetcher\\Utility\\TumblrJsonParser.cs",
+              "RelativeToolTip": "TumblrImageFetcher\\Utility\\TumblrJsonParser.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:03:59.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TumblrImageService.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\TumblrImageFetcher\\TumblrImageFetcher\\Service\\TumblrImageService.cs",
+              "RelativeDocumentMoniker": "TumblrImageFetcher\\Service\\TumblrImageService.cs",
+              "ToolTip": "C:\\LndC\\LnC\\TumblrImageFetcher\\TumblrImageFetcher\\Service\\TumblrImageService.cs",
+              "RelativeToolTip": "TumblrImageFetcher\\Service\\TumblrImageService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAArwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:00:29.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TumblrApiClient.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\TumblrImageFetcher\\TumblrImageFetcher\\Client\\TumblrApiClient.cs",
+              "RelativeDocumentMoniker": "TumblrImageFetcher\\Client\\TumblrApiClient.cs",
+              "ToolTip": "C:\\LndC\\LnC\\TumblrImageFetcher\\TumblrImageFetcher\\Client\\TumblrApiClient.cs",
+              "RelativeToolTip": "TumblrImageFetcher\\Client\\TumblrApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:57:39.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\TumblrImageFetcher\\TumblrImageFetcher\\Program.cs",
+              "RelativeDocumentMoniker": "TumblrImageFetcher\\Program.cs",
+              "ToolTip": "C:\\LndC\\LnC\\TumblrImageFetcher\\TumblrImageFetcher\\Program.cs",
+              "RelativeToolTip": "TumblrImageFetcher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T05:55:06.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
