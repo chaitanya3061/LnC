@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LndC\\LnC\\BookPrintingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7826C5CF-CA0A-48A1-B7F5-C00A98004849}|BookPrintingApp\\BookPrintingApp.csproj|c:\\lndc\\lnc\\bookprintingapp\\bookprintingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7826C5CF-CA0A-48A1-B7F5-C00A98004849}|BookPrintingApp\\BookPrintingApp.csproj|solutionrelative:bookprintingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7826C5CF-CA0A-48A1-B7F5-C00A98004849}|BookPrintingApp\\BookPrintingApp.csproj|c:\\lndc\\lnc\\bookprintingapp\\bookprintingapp\\services\\plaintextprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7826C5CF-CA0A-48A1-B7F5-C00A98004849}|BookPrintingApp\\BookPrintingApp.csproj|solutionrelative:bookprintingapp\\services\\plaintextprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7826C5CF-CA0A-48A1-B7F5-C00A98004849}|BookPrintingApp\\BookPrintingApp.csproj|c:\\lndc\\lnc\\bookprintingapp\\bookprintingapp\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7826C5CF-CA0A-48A1-B7F5-C00A98004849}|BookPrintingApp\\BookPrintingApp.csproj|solutionrelative:bookprintingapp\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7826C5CF-CA0A-48A1-B7F5-C00A98004849}|BookPrintingApp\\BookPrintingApp.csproj|c:\\lndc\\lnc\\bookprintingapp\\bookprintingapp\\services\\htmlprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7826C5CF-CA0A-48A1-B7F5-C00A98004849}|BookPrintingApp\\BookPrintingApp.csproj|solutionrelative:bookprintingapp\\services\\htmlprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7826C5CF-CA0A-48A1-B7F5-C00A98004849}|BookPrintingApp\\BookPrintingApp.csproj|c:\\lndc\\lnc\\bookprintingapp\\bookprintingapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7826C5CF-CA0A-48A1-B7F5-C00A98004849}|BookPrintingApp\\BookPrintingApp.csproj|solutionrelative:bookprintingapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7826C5CF-CA0A-48A1-B7F5-C00A98004849}|BookPrintingApp\\BookPrintingApp.csproj|c:\\lndc\\lnc\\bookprintingapp\\bookprintingapp\\models\\booklocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7826C5CF-CA0A-48A1-B7F5-C00A98004849}|BookPrintingApp\\BookPrintingApp.csproj|solutionrelative:bookprintingapp\\models\\booklocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7826C5CF-CA0A-48A1-B7F5-C00A98004849}|BookPrintingApp\\BookPrintingApp.csproj|c:\\lndc\\lnc\\bookprintingapp\\bookprintingapp\\services\\interfaces\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7826C5CF-CA0A-48A1-B7F5-C00A98004849}|BookPrintingApp\\BookPrintingApp.csproj|solutionrelative:bookprintingapp\\services\\interfaces\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\BookPrintingApp\\BookPrintingApp\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookPrintingApp\\Services\\BookService.cs",
+              "ToolTip": "C:\\LndC\\LnC\\BookPrintingApp\\BookPrintingApp\\Services\\BookService.cs",
+              "RelativeToolTip": "BookPrintingApp\\Services\\BookService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:04:50.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookLocation.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\BookPrintingApp\\BookPrintingApp\\Models\\BookLocation.cs",
+              "RelativeDocumentMoniker": "BookPrintingApp\\Models\\BookLocation.cs",
+              "ToolTip": "C:\\LndC\\LnC\\BookPrintingApp\\BookPrintingApp\\Models\\BookLocation.cs",
+              "RelativeToolTip": "BookPrintingApp\\Models\\BookLocation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:21:19.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlainTextPrinter.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\BookPrintingApp\\BookPrintingApp\\Services\\PlainTextPrinter.cs",
+              "RelativeDocumentMoniker": "BookPrintingApp\\Services\\PlainTextPrinter.cs",
+              "ToolTip": "C:\\LndC\\LnC\\BookPrintingApp\\BookPrintingApp\\Services\\PlainTextPrinter.cs",
+              "RelativeToolTip": "BookPrintingApp\\Services\\PlainTextPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:08:19.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\BookPrintingApp\\BookPrintingApp\\Program.cs",
+              "RelativeDocumentMoniker": "BookPrintingApp\\Program.cs",
+              "ToolTip": "C:\\LndC\\LnC\\BookPrintingApp\\BookPrintingApp\\Program.cs",
+              "RelativeToolTip": "BookPrintingApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:24:52.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HtmlPrinter.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\BookPrintingApp\\BookPrintingApp\\Services\\HtmlPrinter.cs",
+              "RelativeDocumentMoniker": "BookPrintingApp\\Services\\HtmlPrinter.cs",
+              "ToolTip": "C:\\LndC\\LnC\\BookPrintingApp\\BookPrintingApp\\Services\\HtmlPrinter.cs",
+              "RelativeToolTip": "BookPrintingApp\\Services\\HtmlPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:08:35.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\BookPrintingApp\\BookPrintingApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookPrintingApp\\Models\\Book.cs",
+              "ToolTip": "C:\\LndC\\LnC\\BookPrintingApp\\BookPrintingApp\\Models\\Book.cs",
+              "RelativeToolTip": "BookPrintingApp\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T14:30:23.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "C:\\LndC\\LnC\\BookPrintingApp\\BookPrintingApp\\Services\\Interfaces\\IPrinter.cs",
+              "RelativeDocumentMoniker": "BookPrintingApp\\Services\\Interfaces\\IPrinter.cs",
+              "ToolTip": "C:\\LndC\\LnC\\BookPrintingApp\\BookPrintingApp\\Services\\Interfaces\\IPrinter.cs",
+              "RelativeToolTip": "BookPrintingApp\\Services\\Interfaces\\IPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T15:03:35.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\LndC\LnC\BookPrintingApp\BookPrintingApp\bin\Debug\net8.0\BookPrintingApp.exe
+C:\LndC\LnC\BookPrintingApp\BookPrintingApp\bin\Debug\net8.0\BookPrintingApp.deps.json
+C:\LndC\LnC\BookPrintingApp\BookPrintingApp\bin\Debug\net8.0\BookPrintingApp.runtimeconfig.json
+C:\LndC\LnC\BookPrintingApp\BookPrintingApp\bin\Debug\net8.0\BookPrintingApp.dll
+C:\LndC\LnC\BookPrintingApp\BookPrintingApp\bin\Debug\net8.0\BookPrintingApp.pdb
+C:\LndC\LnC\BookPrintingApp\BookPrintingApp\obj\Debug\net8.0\BookPrintingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LndC\LnC\BookPrintingApp\BookPrintingApp\obj\Debug\net8.0\BookPrintingApp.AssemblyInfoInputs.cache
+C:\LndC\LnC\BookPrintingApp\BookPrintingApp\obj\Debug\net8.0\BookPrintingApp.AssemblyInfo.cs
+C:\LndC\LnC\BookPrintingApp\BookPrintingApp\obj\Debug\net8.0\BookPrintingApp.csproj.CoreCompileInputs.cache
+C:\LndC\LnC\BookPrintingApp\BookPrintingApp\obj\Debug\net8.0\BookPrintingApp.sourcelink.json
+C:\LndC\LnC\BookPrintingApp\BookPrintingApp\obj\Debug\net8.0\BookPrintingApp.dll
+C:\LndC\LnC\BookPrintingApp\BookPrintingApp\obj\Debug\net8.0\refint\BookPrintingApp.dll
+C:\LndC\LnC\BookPrintingApp\BookPrintingApp\obj\Debug\net8.0\BookPrintingApp.pdb
+C:\LndC\LnC\BookPrintingApp\BookPrintingApp\obj\Debug\net8.0\BookPrintingApp.genruntimeconfig.cache
+C:\LndC\LnC\BookPrintingApp\BookPrintingApp\obj\Debug\net8.0\ref\BookPrintingApp.dll
