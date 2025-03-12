@@ -18,10 +18,10 @@ namespace CustomerManagementSystem
             string searchTerm = Console.ReadLine();
 
             var customers = searchTerm.ToLower() == "country"
-                ? customerService.getByCountry("India")
-                : searchTerm.ToLower() == "company"
-                    ? customerService.getByCompanyName("In Time Tec ")
-                    : customerService.getByContact("Chaitanya");
+                            ? customerService.getByCountry("India")
+                            : searchTerm.ToLower() == "company"
+                            ? customerService.getByCompanyName("In Time Tec ")
+                            : customerService.getByContact("Chaitanya");
         }
     }
 }
