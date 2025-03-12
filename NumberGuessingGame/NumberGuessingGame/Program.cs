@@ -33,7 +33,7 @@ class Program
     static string getUserGuess()
     {
         Console.Write("Guess a number between 1 and 100: ");
-        string input= Console.ReadLine();
+        string input = Console.ReadLine();
         return input;
     }
 
